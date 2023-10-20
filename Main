@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bebidas Energizantes</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  padding: 10px;
+  color: white;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+</style>
+</head>
+<body>
+  <header>
+    <h1>Bebidas Energizantes</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#inicio">Inicio</a></li>
+      <li><a href="#beneficios">Beneficios</a></li>
+      <li><a href="#riesgos">Riesgos</a></li>
+      <li><a href="#alternativas">Alternativas</a></li>
+      <li><a href="#efectos">Efectos</a></li>
+      <li><a href="#ingredientes">Ingredientes</a></li>
+      <li><a href="#productos">Productos</a></li>
+    </ul>
+  </nav>
+
+  <section id="inicio">
+    <h2>¿Qué son las bebidas energizantes?</h2>
+    <p>Las bebidas energizantes son productos que contienen ingredientes estimulantes, como la cafeína y la taurina, que se consumen con el fin de proporcionar un impulso de energía. Estas bebidas son populares entre los jóvenes y adultos que buscan una mayor sensación de alerta y vitalidad.</p>
+  </section>
+
+  <section id="beneficios">
+    <h2>Beneficios de las bebidas energizantes</h2>
+    <p>Las bebidas energizantes pueden proporcionar ciertos beneficios cuando se consumen con moderación, como:</p>
+    <ul>
+      <li>Aumento de la energía y la alerta.</li>
+      <li>Mejora del rendimiento físico y mental.</li>
+      <li>Mayor concentración.</li>
+      <li>Reducción de la sensación de fatiga.</li>
+      <li>Aumento del estado de ánimo.</li>
+    </ul>
+  </section>
+
+  <section id="riesgos">
+    <h2>Riesgos de consumir bebidas energizantes</h2>
+    <p>A pesar de los posibles beneficios, las bebidas energizantes también conllevan riesgos para la salud. Algunos de estos riesgos incluyen:</p>
+    <ul>
+      <li>Posibilidad de sobredosis de cafeína.</li>
+      <li>Aumento de la presión arterial y el ritmo cardíaco.</li>
+      <li>Problemas de sueño y descanso.</li>
+      <li>Dependencia y adicción a la cafeína.</li>
+      <li>Interacciones negativas con medicamentos.</li>
+    </ul>
+  </section>
+
+  <section id="alternativas">
+    <h2>Alternativas saludables</h2>
+    <p>Si deseas obtener una dosis de energía de forma más saludable, considera las siguientes alternativas:</p>
+    <ul>
+      <li>Consumo moderado de café o té sin azúcar.</li>
+      <li>Descanso adecuado y sueño de calidad.</li>
+      <li>Alimentación balanceada y rica en nutrientes.</li>
+      <li>Ejercicio regular para aumentar la energía de forma natural.</li>
+      <li>Consumo de frutas y verduras que proporcionan vitaminas y minerales esenciales.</li>
+    </ul>
+  </section>
+
+  <section id="efectos">
+    <h2>Efectos</h2>
+    <ul>
+      <li>Aumento de la energía y la alerta.</li>
+      <li>Mejora del rendimiento físico y mental.</li>
+      <li>Mayor resistencia y reducción de la fatiga.</li>
+      <li>Estimulación del sistema nervioso central.</li>
+      <li>Pueden causar insomnio, nerviosismo y taquicardias si se consumen en exceso.</li>
+    </ul>
+  </section>
+
+ <section id="ingredientes">
+    <h2>Ingredientes</h2>
+    <ul>
+      <li>Cafeína</li>
+      <li>Taurina</li>
+      <li>Ginseng</li>
+      <li>Guaraná</li>
+      <li>Vitaminas del grupo B</li>
+      <li>Azúcar</li>
+    </ul>
+
+ <section id="productos">
+     <h2>Productos</h2>
+<h3>RED BULL</h3>
+				<p>Red Bull es una bebida energética que contiene cafeína y otros ingredientes estimulantes, como taurina y vitaminas B. La cafeína es un estimulante del sistema nervioso central que puede aumentar la energía, la concentración y la resistencia durante el ejercicio..</p>
+				<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dislicores.com%2Fred-bull-lata-ref171000%2Fp&psig=AOvVaw2M4gfLsMt5-Yw2vxLzvNKx&ust=1697679402854000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiW-t-6_oEDFQAAAAAdAAAAABAE" alt="RED BULL">
+                                <p>Altas dosis de cafeína: pueden provocar trastornos del sueño, alteraciones de la tensión arterial, palpitaciones, nauseas, vómitos e incluso convulsiones.</p>
+			</article>
+			
+			<article>
+				<h3>MONSTER</h3>
+				<p>La Monster Energy es una bebida energética que contiene Agua carbonatada, sacarosa, glucosa, taurina, citrato de sodio,.</p>
+				<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.rollindairy.com%2Fproduct%2Fmonster-energy%2F&psig=AOvVaw1ergi8gdDPfeUmwY48kefM&ust=1697679473493000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjO9IG7_oEDFQAAAAAdAAAAABAI" alt="MONSTER">
+                                <p> elevación de la presión arterial, arritmias cardiacas y si existe un consumo excesivo se pueden llegar a presentar convulsiones, infartos y accidentes cerebrovasculares.</p>
+			</article>
+
+  <footer>
+   
+
+</body>
+</html>
